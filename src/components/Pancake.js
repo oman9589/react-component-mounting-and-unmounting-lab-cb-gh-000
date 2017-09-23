@@ -12,7 +12,7 @@ class Pancake extends React.Component {
   }
 
   componentDidMount = () = > {
-    
+
   }
   // TODO: create a componentWillUnmount() which will clear the interval
 
